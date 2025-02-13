@@ -67,6 +67,10 @@ flutter:
      - assets/images/twitter.jpg
      - assets/images/whatsapp.jpg
      - assets/images/image3.png
+     - assets/images/equip1.png
+     - assets/images/equip2.png
+     - assets/images/equip3.png
+     - assets/images/equip4.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 

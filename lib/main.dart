@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 //import 'package:project_x/contact_us.dart';
 import 'profile.dart'; // Import the profile page
-
+import 'wishlist.dart';
 void main() {
   runApp(MyApp());
 }
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ProfilePage(),
+      home: WishlistPage(),
     );
   }
 }
